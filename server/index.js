@@ -9,7 +9,7 @@ import kpiRoutes from "./routes/kpi.js"
 import KPI from "./models/KPI.js";
 import Product from "./models/Product.js"
 import productRoutes from "./routes/product.js";
-import { kpis } from "./data/data.js";
+import { kpis, products } from "./data/data.js";
 
 // configs
 dotenv.config();
@@ -39,5 +39,6 @@ mongoose
     // WARNING data base cleared and mock data injected below WARNING
     // await mongoose.connection.db.dropDatabase();
     // KPI.insertMany(kpis);
+    // Product.insertMany(products);
   })
   .catch((error) => console.log(`${error} did not connect`));
