@@ -35,10 +35,12 @@ export const tokens = {
   tertiary: {
     // purple
     500: "#8884d8",
+    999: "#040b31",
   },
   background: {
     light: "#2d2d34",
     main: "#1f2026",
+    
   },
 };
 
