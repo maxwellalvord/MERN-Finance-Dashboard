@@ -5,6 +5,13 @@
 ## Technology Used
 [![My Skills](https://skillicons.dev/icons?i=mongo,express,nodejs,react,vite,typescript,redux,&theme=dark)](https://www.mongodb.com/mern-stack)
 
+<img
+  src="./ECOM-VISION.png"
+  alt="Happy Homes"
+  title="Happy Homes"
+  style=" margin: 0 auto; max-width: 800px"
+  />
+
 ## Setup/ Installation
 * Clone this repo and open in text editor of choice.
 * cd into the each folder named client and server and run `npm install`.
