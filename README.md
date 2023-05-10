@@ -7,8 +7,8 @@
 
 <img
   src="./ECOM-VISION.png"
-  alt="Happy Homes"
-  title="Happy Homes"
+  alt="ECOM Vison"
+  title="ECOM Vison"
   style=" margin: 0 auto; max-width: 800px"
   />
 
